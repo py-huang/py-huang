@@ -1,6 +1,6 @@
 ## 👋 About Me:
 - 🙋‍♂️ My name is **Pei Chieh Huang**, but people also call me **Penny**.
-- 🎓 **Computer Science (CS)** and **Digital Content and Technologies(DCT)** student from the **National Chengchi University**, Taiwan.
+- 🎓 **Computer Science (CS)** and **Digital Content and Technologies (DCT)** student from the **National Chengchi University**, Taiwan.
 - 💼 Over 3 years of experience in programming, specializing in **full-stack** development with a passion for frontend and backend.
 - 🤖 Expertise in **AI model training**, with practical experience in **GRU** models for predictive tasks such as crowd management and wait time predictions.
 - 🌐 Specialized knowledge in **5G network communication**, including the implementation of Near-RT-RIC xAPPs to optimize network quality and resource allocation.
